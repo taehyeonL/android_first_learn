@@ -4,7 +4,7 @@
 
 viewGroup을 상속받는 여러가지 Layout클래스를 제공하고 있다.
 
-각각 Layout마다 자식 view를 배치하는 방법과 사용법이 다르다
+각각 Layout마다 자식 view를 배치하는 방법과 사용법이 다르다.
 
 ### linear layout
 
